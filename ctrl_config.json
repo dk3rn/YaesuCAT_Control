@@ -1,0 +1,23 @@
+{
+  "buttons": [
+    {
+      "cmd_string": "PC024",
+      "caption": "24W",
+      "color": "green",
+      "row": 0,
+      "line": 0,
+      "reply_length": 10,
+      "reply_end": 9
+    },
+    {
+      "cmd_string": "PC050",
+      "caption": "50W",
+      "color": "green",
+      "row": 1,
+      "line": 0,
+      "reply_length": 10,
+      "reply_end": 9
+    }
+  ]
+}
+
